@@ -1,5 +1,8 @@
 # Hallmarks-of-cancer-interactive-simulation
-This model is an educational simulation of tumor growth and chemotherapy. It introduces several simplified characteristics associated with cancer, including sustained cell proliferation, evasion of growth suppression, replicative immortality, and reduced dependence on cellular anchorage.
+This model is an educational simulation of tumor growth and chemotherapy. It introduces several simplified characteristics associated with cancer, including sustained cell proliferation, evasion of growth suppression, replicative immortality, and reduced dependence on cellular anchorage. 
+
+This modeol runs in Netlogo 6.4.
+A detailed description is included in the netlogo simulation file info tab.
 
 Using an innovative teaching approach, I designed an educational experience for intermediate-level students that included a videogame-style simulation of cancer behavior based on the theoretical foundations of the “Hallmarks of Cancer” (Douglas Hanahan, “Hallmarks of Cancer: New Dimensions,” Cancer Discovery, January 1, 2022; 12(1): 31–46. https://doi.org/10.1158/2159-8290.CD-21-1059).
 
