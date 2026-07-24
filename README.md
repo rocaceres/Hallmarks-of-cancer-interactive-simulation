@@ -9,9 +9,9 @@ The activity was divided into two parts:
 
 The first consisted of an brief explanation of the morphological and behavioral differences between healthy cells and cancer cells (slides are included in the repository).
 
-In the second, hands-on part, the students can set the features of the cancer cells and see how they affect the tumor behavior. They can also choose to administer chemotherapy, which slows tumor growth by killing the cells, can also degrade the patient's condition due to toxicity.
+In the second, hands-on half, the students can set the features of the cancer cells and see how they affect tumor behavior. They can also choose to administer chemotherapy, which slows tumor growth by killing the cells, but can also worsen the patient's health due to toxicity.
 
-The purpose of the activity was to explain the fundamentals of tumor growth to young people in a simple and accessible way, while illustrating the delicate balance between stopping tumor growth and preserving the health of oncological patients. It also sought to raise awareness among children and adolescents about the challenges that cancer presents to scientists, physicians, and family members of oncological patients.
+The purpose of the activity was to explain the fundamentals of tumor growth to a young audience in a simple and accessible way, while illustrating the delicate balance between stopping tumor growth and preserving the health of oncological patients. It also sought to raise awareness among children and adolescents about the challenges that cancer presents to scientists, physicians, and family members of oncological patients.
 
 ## Attribution and license
 
